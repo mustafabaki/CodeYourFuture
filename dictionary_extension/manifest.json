@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Dictionary",
+    "description": "Look up the meanings of words right from your device!",
+    "version": "1.0",
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "Dictionary"
+      }
+    
+  }
+  

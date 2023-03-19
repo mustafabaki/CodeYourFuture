@@ -15,5 +15,3 @@ To install the extension, follow these steps:
 # Usage
 To use the extension, simply activate it by clicking on its icon in the Chrome toolbar. A popup window with a search bar and a search button will appear. Type in the word you want to search for, and hit the search button or press the enter key. The extension will then retrieve the definition of the word from the Free Dictionary API and display it in the popup window.
 
-# Contributing
-We welcome contributions to this project! If you encounter any bugs or issues, or have suggestions for new features, please open an issue on this repository.

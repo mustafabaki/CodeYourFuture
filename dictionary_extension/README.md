@@ -1,7 +1,7 @@
 # Dictionary Extension
 Dictionary Extension is a simple Chrome extension that lets you look up word definitions without leaving your current browsing session. It uses the Free Dictionary API to retrieve word definitions and displays them in a popup window.
 
-![Alt text](dictionary_extension\dictionary_extension.gif?raw=true "Dictionary Extension")
+![Alt text](https://github.com/mustafabaki/CodeYourFuture/blob/master/dictionary_extension/dictionary_extension.gif "Dictionary Extension")
 
 
 # Installation
